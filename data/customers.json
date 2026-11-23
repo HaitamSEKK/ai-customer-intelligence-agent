@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Ahmed",
+    "email": "ahmed@example.com",
+    "message": "Bonjour, où en est ma livraison ?",
+    "status": "resolved"
+  },
+  {
+    "id": 2,
+    "name": "Sara",
+    "email": "sara@example.com",
+    "message": "Je souhaite un remboursement.",
+    "status": "resolved"
+  },
+  {
+    "id": 3,
+    "name": "Youssef",
+    "email": "youssef@example.com",
+    "message": "Mon produit est arrivé endommagé.",
+    "status": "pending"
+  },
+  {
+    "id": 4,
+    "name": "Nadia",
+    "email": "nadia@example.com",
+    "message": "Problème de facturation.",
+    "status": "pending"
+  }
+]
