@@ -25,6 +25,6 @@
     "name": "Nadia",
     "email": "nadia@example.com",
     "message": "Problème de facturation.",
-    "status": "pending"
+    "status": "resolved"
   }
 ]
